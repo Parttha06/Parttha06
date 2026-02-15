@@ -78,9 +78,9 @@ const partha = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/partha-biswass*)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/YOUR_X_HANDLE)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR_INSTAGRAM)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://instagram.com/YOUR_INSTAGRAM](https://www.instagram.com/biswasparttha?igsh=MTlqMWFzNHdrZ3VzbQ==))
 
 </div>
 
@@ -92,6 +92,6 @@ const partha = {
 
 ![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet&style=for-the-badge)
 
-⭐️ From [Partha Biswas](https://github.com/YOUR_GITHUB_USERNAME)
+⭐️ From [Partha Biswas](https://github.com/Parttha06)
 
 </div>
